@@ -1,3 +1,9 @@
 {
-  "packages": {}
+  "name": "meteor-bird",
+  "description": "Meteor Bird Social Network",
+  "author": "Vinicius do Vale <viniciusdovale10@gmail.com>",
+  "version": "0.0.1",
+  "packages": {
+    "bootstrap-3": {}
+  }
 }
